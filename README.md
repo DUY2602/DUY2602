@@ -52,8 +52,8 @@ Hello! I'm **Duy**, a passionate learner and developer focused on **Data Science
 
 ### 📈 Detailed Stats
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DUY2602&theme=github_dark&show_icons=true&count_private=true&hide_border=true&hide_title=false&hide_rank=false&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="200" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DUY2602&theme=github_dark&layout=compact&hide_border=true&langs_count=7&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="200" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DUY2602&theme=github_dark&show_icons=true&count_private=true&hide_border=true&hide_title=false&hide_rank=false&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" width="49%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DUY2602&theme=github_dark&layout=compact&hide_border=true&langs_count=7&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="49%" />
 </p>
 
 <p align="center">
