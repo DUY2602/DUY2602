@@ -51,15 +51,16 @@ Hello! I'm **Duy**, a passionate learner and developer focused on **Data Science
 </picture>
 
 ### 📈 Detailed Stats
+
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DUY2602&theme=github_dark&show_icons=true&count_private=true&hide_border=true&hide_title=false&hide_rank=false&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" width="49%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DUY2602&theme=github_dark&layout=compact&hide_border=true&langs_count=7&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DUY2602&theme=github_dark" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DUY2602&theme=github_dark&hide_border=true" width="96%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DUY2602&theme=github_dark&exclude=Jupyter%20Notebook" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DUY2602&theme=github_dark" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DUY2602&theme=github_dark" width="32%"/>
 </p>
-
 ---
 
 ## 🌐 Connect with me:
