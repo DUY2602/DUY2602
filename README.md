@@ -21,23 +21,38 @@ Hello! I'm **Duy**, a passionate learner and developer focused on **Data Science
 ### 🔥 AI, Machine Learning & Data Science
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,anaconda,matlab" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,matlab" />
   </a>
 </p>
 
-### 🌐 Web Development
+### 🎨 Frontend Development
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,laravel,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
   </a>
 </p>
 
-### 🗄️ Database & Tools
+### ⚙️ Backend Development
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,mongodb,git,github,figma,notion" />
+    <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,java,spring,cs,dotnet" />
   </a>
 </p>
+
+### 🗄️ Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase,sqlite" />
+  </a>
+</p>
+
+### 🔧 Tools & Platforms
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,eclipse,anaconda,figma,notion,wordpress" />
+  </a>
+</p>
+
 
 ---
 
